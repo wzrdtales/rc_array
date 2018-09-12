@@ -1,0 +1,33 @@
+{
+  "name": "rc_array",
+  "version": "1.0.0",
+  "description": "A wrapper around rc to allow arrays in environment configs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzrdtales/rc_array.git"
+  },
+  "keywords": [
+    "rc",
+    "env",
+    "environment",
+    "config",
+    "arrays",
+    "arr"
+  ],
+  "author": "Tobias Gurtzick <magic@wizardtales.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzrdtales/rc_array/issues"
+  },
+  "homepage": "https://github.com/wzrdtales/rc_array#readme",
+  "peerDependencies": {
+    "rc": "^1.2.8"
+  },
+  "devDependencies": {
+    "rc": "^1.2.8"
+  }
+}
